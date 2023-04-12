@@ -54,7 +54,7 @@
 		</button>
 	</div>
 	<div class="container p-3">
-		<p class="text-center fs-2 ">Key Features of our Hospital</p>
+		<p class="text-center fs-2 "><b>KEY FEATURES OF OUR HOSPITAL</b></p>
 
 		<div class="row">
 			<div class="col-md-8 p-5">
@@ -62,7 +62,7 @@
 					<div class="col-md-6">
 						<div class="card paint-card">
 							<div class="card-body">
-								<p class="fs-5">100% Safety</p>
+								<p class="fs-5">100% SAFETY</p>
 								<p>Our Hospitals benchmarks with the best among the world's
 									service organizations to create a culture of Patient Engagement
 									with a service vision of "Offering Care beyond Compare".</p>
@@ -72,7 +72,7 @@
 					<div class="col-md-6">
 						<div class="card paint-card">
 							<div class="card-body">
-								<p class="fs-5">Clean Environment</p>
+								<p class="fs-5">CLEAN ENVIRONMENT</p>
 								<p>We are providing and maintaining the 100% clean
 									environment,Benefiting public health and protecting hospital
 									staff as well as the larger environment.</p>
@@ -82,7 +82,7 @@
 					<div class="col-md-6 mt-2">
 						<div class="card paint-card">
 							<div class="card-body">
-								<p class="fs-5">Friendly Doctors</p>
+								<p class="fs-5">FRIENDLY DOCTORS</p>
 								<p>Our biggest asset is our engaged work-force that takes
 									pride in their work and ensures that every transaction is
 									converted into memorable experience for our Patients.</p>
@@ -92,7 +92,7 @@
 					<div class="col-md-6 mt-2">
 						<div class="card paint-card">
 							<div class="card-body">
-								<p class="fs-5">Medical Research</p>
+								<p class="fs-5">MEDICAL RESEARCH</p>
 								<p>In the year 2009 to encourage an academic and research in
 									the org by recognizing published papers and reviewed journals
 									by junior medical staff, DNB trainees and nursing staff.</p>
@@ -112,15 +112,17 @@
 	<hr>
 
 	<div class="container p-2">
-		<p class="text-center fs-2 ">Our Team</p>
+		<p class="text-center fs-2 "><b>OUR TEAM</b></p>
 
 		<div class="row">
 			<div class="col-md-3">
 				<div class="card paint-card">
 					<div class="card-body text-center">
 						<img src="img/doc-1.png" width="250px" height="300px">
-						<p class="fw-bold fs-5">Dr. Om Sai Prasad</p>
-						<p class="fs-7">(CEO & Chairman)</p>
+						<p class="fw-bold fs-5">Dr. OM SAI PRASAD</p>
+						<p class="fs-7">
+							<b>CARDIOLOGIST (CEO & CHAIRMAN)</b>
+						</p>
 					</div>
 				</div>
 			</div>
@@ -129,8 +131,10 @@
 				<div class="card paint-card">
 					<div class="card-body text-center">
 						<img src="img/doc-2.png" width="250px" height="300px">
-						<p class="fw-bold fs-5">Dr.Ahmadunnisa</p>
-						<p class="fs-7">(Chief Doctor)</p>
+						<p class="fw-bold fs-5">Dr. AHMADUNNISA</p>
+						<p class="fs-7">
+							<b> DERMATOLOGIST(CHIEF DOCTOR)</b>
+						</p>
 					</div>
 				</div>
 			</div>
@@ -139,8 +143,10 @@
 				<div class="card paint-card">
 					<div class="card-body text-center">
 						<img src="img/doc-3.png" width="250px" height="300px">
-						<p class="fw-bold fs-5">Dr.Dhanush</p>
-						<p class="fs-7">(Chief Doctor)</p>
+						<p class="fw-bold fs-5">Dr.DHANUSH</p>
+						<p class="fs-7">
+							<b>ORTHOPEDIC(CHIEF DOCTOR)</b>
+						</p>
 					</div>
 				</div>
 			</div>
@@ -148,8 +154,10 @@
 				<div class="card paint-card">
 					<div class="card-body text-center">
 						<img src="img/doc-4.png" width="250px" height="300px">
-						<p class="fw-bold fs-5">Dr.Samantha</p>
-						<p class="fs-7">(Chief Doctor)</p>
+						<p class="fw-bold fs-5">Dr.SAMANTHA</p>
+						<p class="fs-7">
+							<b> GYNACOLOGIST(CHIEF DOCTOR)</b>
+						</p>
 					</div>
 				</div>
 			</div>
